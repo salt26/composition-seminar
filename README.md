@@ -12,7 +12,7 @@
 * 📅 일시: 2024년 3월 ~ 8월 (11주)
   * 매주 금요일 오후 7:30 ~ 10:30 (최대 3시간)
 * 🏫 장소: 서울대학교 301동 203호 (오프라인 + 온라인)
-* 🧑‍🏫 진행자: UPnL 안단태 (Andantino; @salt26)
+* 🧑‍🏫 진행자: UPnL 안단태 (Andantino; [@salt26](https://github.com/salt26))
 * 🚥 진행 방법
   * 오프라인 참석 가능 인원이 10명 이상이면서 3개 동아리 이상이면 출발
   * 오프라인 참석을 원칙으로 하되, 서울 소재 동아리가 아닌 경우 온라인 참석 허용
@@ -63,14 +63,14 @@
 **CC BY-NC-ND**  
 <img src="./Figures/by-nc-nd.svg" height=70>
 
-⁠본 강의 자료의 저작권은 세미나 진행자(@salt26)에게 있으며, 자유로운 배포는 가능하지만, 영리적 목적으로 사용할 수 없고, 변형 또는 2차 저작 시 세미나 진행자에게 허락을 받으셔야 합니다.
+⁠본 강의 자료의 저작권은 세미나 진행자([@salt26](https://github.com/salt26))에게 있으며, 자유로운 배포는 가능하지만, 영리적 목적으로 사용할 수 없고, 변형 또는 2차 저작 시 세미나 진행자에게 허락을 받으셔야 합니다.
 
 #### 음원 및 악보
 **CC BY-ND**  
 <img src="./Figures/by-nd.svg" height=70>
 
 또한 강의 및 실습 자료에는 세미나 진행자가 작곡한 음원과 악보가 일부 포함되어 있습니다.  
-해당 음원 및 악보의 저작권 역시 세미나 진행자(@salt26)에게 있으며, 저작자를 반드시 명시하는 조건으로 자유로운 배포가 가능하고, 상업적 이용이 가능합니다. 변형 또는 2차 저작(예: "저희 게임에 삽입하고 싶어요") 시 세미나 진행자에게 허락을 받으셔야 합니다.
+해당 음원 및 악보의 저작권 역시 세미나 진행자([@salt26](https://github.com/salt26))에게 있으며, 저작자를 반드시 명시하는 조건으로 자유로운 배포가 가능하고, 상업적 이용이 가능합니다. 변형 또는 2차 저작(예: "저희 게임에 삽입하고 싶어요") 시 세미나 진행자에게 허락을 받으셔야 합니다.
 
 참가자 분들이 실습에 참여하여 만든 음원은 여기서 배포하지 않습니다.
 
@@ -97,9 +97,9 @@
 * 참석자
   * 총 19명
   * 오프라인  
-  @salt26 @khoeun03 @denise030261 @sy3c4ll @seoksii @icymint8 외 7명
+  [@salt26](https://github.com/salt26) [@khoeun03](https://github.com/khoeun03) [@denise030261](https://github.com/denise030261) [@sy3c4ll](https://github.com/sy3c4ll) [@seoksii](https://github.com/seoksii) [@icymint8](https://github.com/icymint8) 외 7명
   * 온라인  
-  @yeeeab @flowersayo 외 4명
+  [@yeeeab](https://github.com/yeeeab) [@flowersayo](https://github.com/flowersayo) 외 4명
 
 ### 1주차: 음계와 조성
 > 2024-03-15 (금)
@@ -116,9 +116,9 @@
 * 참석자
   * 총 13명
   * 오프라인  
-  @salt26 @khoeun03 @denise030261 @seoksii @sy3c4ll 외 2명
+  [@salt26](https://github.com/salt26) [@khoeun03](https://github.com/khoeun03) [@denise030261](https://github.com/denise030261) [@seoksii](https://github.com/seoksii) [@sy3c4ll](https://github.com/sy3c4ll) 외 2명
   * 온라인  
-  @yeeeab @icymint8 @flowersayo 외 3명
+  [@yeeeab](https://github.com/yeeeab) [@icymint8](https://github.com/icymint8) [@flowersayo](https://github.com/flowersayo) 외 3명
 
 ### 2주차: 악보 제작
 > 2024-03-22 (금)
@@ -137,14 +137,14 @@
 * 참석자
   * 총 12명
   * 오프라인  
-  @salt26 @khoeun03 @sy3c4ll 외 4명
+  [@salt26](https://github.com/salt26) [@khoeun03](https://github.com/khoeun03) [@sy3c4ll](https://github.com/sy3c4ll) 외 4명
   * 온라인  
-  @denise030261 @flowersayo @icymint8 @yeeeab 외 1명
+  [@denise030261](https://github.com/denise030261) [@flowersayo](https://github.com/flowersayo) [@icymint8](https://github.com/icymint8) [@yeeeab](https://github.com/yeeeab) 외 1명
 * 과제 제출자
   * 악보 옮기기 실습 (모짜르트)  
-  @khoeun03 @denise030261 @icymint8 @sy3c4ll @yeeeab 외 5명
+  [@khoeun03](https://github.com/khoeun03) [@denise030261](https://github.com/denise030261) [@icymint8](https://github.com/icymint8) [@sy3c4ll](https://github.com/sy3c4ll) [@yeeeab](https://github.com/yeeeab) 외 5명
   * 청음하기 실습 (테트리스)  
-  @khoeun03 @icymint8 @sy3c4ll @yeeeab @denise030261 외 3명
+  [@khoeun03](https://github.com/khoeun03) [@icymint8](https://github.com/icymint8) [@sy3c4ll](https://github.com/sy3c4ll) [@yeeeab](https://github.com/yeeeab) [@denise030261](https://github.com/denise030261) 외 3명
 
 ### 3주차: 악보 교정과 악기
 > 2024-03-29 (금)
@@ -161,9 +161,9 @@
 * 참석자
   * 총 8명
   * 오프라인  
-  @salt26 @khoeun03 외 1명
+  [@salt26](https://github.com/salt26) [@khoeun03](https://github.com/khoeun03) 외 1명
   * 온라인  
-  @denise030261 @yeeeab @icymint8 외 2명
+  [@denise030261](https://github.com/denise030261) [@yeeeab](https://github.com/yeeeab) [@icymint8](https://github.com/icymint8) 외 2명
 
 ### 4주차: 화음
 > 2024-04-04 (목)
@@ -181,16 +181,16 @@
   * [PPT (음원 포함)](./PPT/UNIDEV_2024_composition_04.pptx)
   * [PDF](./PDF/UNIDEV_2024_composition_04.pdf)
   * [Chord Trainer (사이트)](https://site.thekipa.com/chord-trainer/)
-    * @kipa00 님이 만든 화음 듣기 훈련 사이트입니다.
+    * [@kipa00](https://github.com/kipa00) 님이 만든 화음 듣기 훈련 사이트입니다.
 * 참석자
   * 총 15명
   * 오프라인  
-  @salt26 @seoksii @khoeun03 외 7명
+  [@salt26](https://github.com/salt26) [@seoksii](https://github.com/seoksii) [@khoeun03](https://github.com/khoeun03) 외 7명
   * 온라인  
-  @denise030261 @yeeeab @sy3c4ll @flowersayo 외 1명
+  [@denise030261](https://github.com/denise030261) [@yeeeab](https://github.com/yeeeab) [@sy3c4ll](https://github.com/sy3c4ll) [@flowersayo](https://github.com/flowersayo) 외 1명
 * 과제 제출자
   * Chord Trainer 실습
-  @denise030261 @khoeun03 @seoksii @sy3c4ll 외 6명
+  [@denise030261](https://github.com/denise030261) [@khoeun03](https://github.com/khoeun03) [@seoksii](https://github.com/seoksii) [@sy3c4ll](https://github.com/sy3c4ll) 외 6명
   
 ### 5주차: 화성
 > 2024-04-11 (목)
@@ -210,12 +210,12 @@
 * 참석자
   * 총 8명
   * 오프라인  
-  @salt26 @khoeun03 @sy3c4ll 외 2명
+  [@salt26](https://github.com/salt26) [@khoeun03](https://github.com/khoeun03) [@sy3c4ll](https://github.com/sy3c4ll) 외 2명
   * 온라인  
-  @denise030261 @seoksii 외 1명
+  [@denise030261](https://github.com/denise030261) [@seoksii](https://github.com/seoksii) 외 1명
 * 과제 제출자
   * 적절한 화음 찾기 실습 (고향의 봄)
-  @seoksii @denise030261 @khoeun03 @sy3c4ll 외 4명
+  [@seoksii](https://github.com/seoksii) [@denise030261](https://github.com/denise030261) [@khoeun03](https://github.com/khoeun03) [@sy3c4ll](https://github.com/sy3c4ll) 외 4명
 
 ### 6주차: 음악 합성 및 음향적 변형
 > 2024-05-02 (목)
@@ -233,9 +233,9 @@
 * 참석자
   * 총 9명
   * 오프라인  
-  @salt26 @khoeun03 @sy3c4ll 외 4명
+  [@salt26](https://github.com/salt26) [@khoeun03](https://github.com/khoeun03) [@sy3c4ll](https://github.com/sy3c4ll) 외 4명
   * 온라인  
-  @seoksii 외 1명
+  [@seoksii](https://github.com/seoksii) 외 1명
 
 ### 7주차: 곡 설계
 > 2024-06-20 (목)
@@ -253,21 +253,21 @@
   * [PDF](./PDF/UNIDEV_2024_composition_07.pdf)
   * [실습](./PracticeMaterials/Week07.zip)
   * [작곡 도우미 (GitHub)](https://github.com/salt26/composition-helper/releases/tag/v.1.0-alpha)
-    * @salt26 과 @cubelover 님이 함께 만들었습니다.
+    * [@salt26](https://github.com/salt26) 과 [@cubelover](https://github.com/cubelover) 님이 함께 만들었습니다.
     * 누구나 쉽게 화음부터 작곡하기 과정을 경험할 수 있습니다.
     * Windows에서만 실행 가능합니다.
     * 실습 자료 파일에 포함되어 있습니다. [(링크)](./PracticeMaterials/Week07/Composition_Helper_Windows.zip)
 * 참석자
   * 총 6명
   * 오프라인  
-  @salt26 @khoeun03 @sy3c4ll 외 1명
+  [@salt26](https://github.com/salt26) [@khoeun03](https://github.com/khoeun03) [@sy3c4ll](https://github.com/sy3c4ll) 외 1명
   * 온라인  
-  @seoksii @yeeeab
+  [@seoksii](https://github.com/seoksii) [@yeeeab](https://github.com/yeeeab)
 * 과제 제출자
   * 음계 바꾸기 실습
-  @khoeun03
+  [@khoeun03](https://github.com/khoeun03)
   * 조바꿈 연결 실습
-  @sy3c4ll 외 1명
+  [@sy3c4ll](https://github.com/sy3c4ll) 외 1명
 
 ### 8주차: 멜로디부터 작곡하기
 > 2024-07-11 (목)
@@ -284,12 +284,12 @@
 * 참석자
   * 총 7명
   * 오프라인  
-  @salt26 @denise030261 @flowersayo @sy3c4ll 외 1명
+  [@salt26](https://github.com/salt26) [@denise030261](https://github.com/denise030261) [@flowersayo](https://github.com/flowersayo) [@sy3c4ll](https://github.com/sy3c4ll) 외 1명
   * 온라인  
-  @yeeeab @khoeun03
+  [@yeeeab](https://github.com/yeeeab) [@khoeun03](https://github.com/khoeun03)
 * 과제 제출자
   * 멜로디부터 작곡하기 실습
-  @khoeun03
+  [@khoeun03](https://github.com/khoeun03)
 
 ### 9주차: MIDI 프로그래밍
 > 2024-07-18 (목)
@@ -306,7 +306,7 @@
   * [PDF](./PDF/UNIDEV_2024_composition_09.pdf)
   * [실습](./PracticeMaterials/Week09.zip)
   * [Chromatic Piano Roll (GitHub)](https://github.com/salt26/chromatic-piano-roll)
-    * @salt26 이 만든 음악 시각화 프로그램입니다.
+    * [@salt26](https://github.com/salt26) 이 만든 음악 시각화 프로그램입니다.
     * Windows에서만 실행 가능합니다.
   * [Mido (GitHub)](https://github.com/mido/mido/)
     * Python MIDI 라이브러리입니다.
@@ -314,14 +314,14 @@
     * C# MIDI 라이브러리입니다.
     * **주의:** GitHub에 있는 공식 빌드와 [실습에서 제공하는 파일](./PracticeMaterials/Week09/Sanford.Multimedia.Midi.dll)은 조금 다릅니다. 둘의 차이점은 PPT 또는 PDF의 48페이지에서 확인하세요.
   * [MIDI Practice for Rust (GitHub)](https://github.com/sy3c4ll/midi_practice)
-    * 세미나에 참가한 @sy3c4ll 님이 만들었습니다.
-    * @salt26 이 만든, 실습 자료 파일에 포함되어 있는 [MidiPractice-CSharp](./PracticeMaterials/Week09/MidiPractice-CSharp.zip)을 Rust로 포팅한 코드입니다.
+    * 세미나에 참가한 [@sy3c4ll](https://github.com/sy3c4ll) 님이 만들었습니다.
+    * [@salt26](https://github.com/salt26) 이 만든, 실습 자료 파일에 포함되어 있는 [MidiPractice-CSharp](./PracticeMaterials/Week09/MidiPractice-CSharp.zip)을 Rust로 포팅한 코드입니다.
 * 참석자
   * 총 6명
   * 오프라인  
-  @salt26 @khoeun03 @sy3c4ll
+  [@salt26](https://github.com/salt26) [@khoeun03](https://github.com/khoeun03) [@sy3c4ll](https://github.com/sy3c4ll)
   * 온라인  
-  @denise030261 @flowersayo 외 1명
+  [@denise030261](https://github.com/denise030261) [@flowersayo](https://github.com/flowersayo) 외 1명
 
 ### 10주차: 피아노 반주 제작
 > 2024-08-08 (목)
@@ -349,7 +349,7 @@
   * [조성 인식 방법 소개 (사이트)](https://rnhart.net/articles/key-finding/)
     * 참고문헌: Krumhansl, C. L. (2001). *Cognitive foundations of musical pitch*. Oxford University Press.
   * [MIDI 분석기 (GitHub)](https://github.com/salt26/midi-analyzer)
-    * @salt26 이 만든 MIDI 자동 분석 도구입니다.
+    * [@salt26](https://github.com/salt26) 이 만든 MIDI 자동 분석 도구입니다.
     * Windows에서만 실행 가능합니다.
     * 참고문헌: 안단태, & 서진욱. (2022). 멜로디의 유사성 측정을 위한 멜로디 형태 표현법 고안. *한국정보과학회 학술발표논문집*, 1094-1096.
   * [NFluidsynth (GitHub)](https://github.com/atsushieno/nfluidsynth)
@@ -358,11 +358,12 @@
 * 참석자
   * 총 5명
   * 오프라인  
-  @salt26 @denise030261
+  [@salt26](https://github.com/salt26) [@denise030261](https://github.com/denise030261)
   * 온라인  
-  @khoeun03 @sy3c4ll 외 1명
+  [@khoeun03](https://github.com/khoeun03) [@sy3c4ll](https://github.com/sy3c4ll) 외 1명
 
 ## 세미나를 마치며
 작곡에 관심을 가지고 입문하고자 하는 많은 분들께 본 자료가 도움이 되었으면 합니다.  
 따라서 UNIDEV 아카이브 및 여기 공개 저장소를 통해 자료를 공개합니다.  
-세미나 내용과 관련하여 질문이 있으시면 저 @salt26 에게 편하게 질문해 주세요! 😊
+세미나 내용과 관련하여 질문이 있으시면 저 [@salt26](https://github.com/salt26) 에게 편하게 질문해 주세요! 😊  
+내용 오류에 대한 지적도 받습니다!
